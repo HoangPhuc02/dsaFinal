@@ -1,0 +1,8 @@
+E:\Workspace\c#\finalProjectDSA\dsaFinal\testHanhKhach\testHanhKhach\obj\Debug\testHanhKhach.csproj.AssemblyReference.cache
+E:\Workspace\c#\finalProjectDSA\dsaFinal\testHanhKhach\testHanhKhach\obj\Debug\testHanhKhach.csproj.SuggestedBindingRedirects.cache
+E:\Workspace\c#\finalProjectDSA\dsaFinal\testHanhKhach\testHanhKhach\obj\Debug\testHanhKhach.csproj.CoreCompileInputs.cache
+E:\Workspace\c#\finalProjectDSA\dsaFinal\testHanhKhach\testHanhKhach\bin\Debug\testHanhKhach.exe.config
+E:\Workspace\c#\finalProjectDSA\dsaFinal\testHanhKhach\testHanhKhach\bin\Debug\testHanhKhach.exe
+E:\Workspace\c#\finalProjectDSA\dsaFinal\testHanhKhach\testHanhKhach\bin\Debug\testHanhKhach.pdb
+E:\Workspace\c#\finalProjectDSA\dsaFinal\testHanhKhach\testHanhKhach\obj\Debug\testHanhKhach.exe
+E:\Workspace\c#\finalProjectDSA\dsaFinal\testHanhKhach\testHanhKhach\obj\Debug\testHanhKhach.pdb
